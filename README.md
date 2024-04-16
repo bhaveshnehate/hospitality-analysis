@@ -21,7 +21,11 @@ Weekly trend Key trend (Revenue, Total booking, Occupancy)
 
 5 Operational efficiency assessments identify opportunities for streamlining processes, reducing overhead costs, and improving service delivery.
 # Insights and Recommendations
+
 1 Revenue analysis:While details are limited, the presence of a "Revenue by Class" this stats that Elite class is most revenue by class
+
 2 Booking Trends:By analyzing weeks and booking count by day type weekend has more booking then weekday we can give discount for week day to increase business
+
 3 Room Performance:You can see the total number of rooms and potentially how many guests have booked them, categorized by room type .This helps identify that R2 is in higher demand
+
 4 Booking Channel Performance:Analyze the performance of different booking channels . MakeMyTrip is contributing the most revenue and have the highest conversion rates.
