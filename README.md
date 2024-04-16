@@ -1,14 +1,14 @@
 # hospitality-analysis kpi 
-Total Revenue
-Occupancy
-Cancellation Rate
-Total Booking
-Utilize capacity
-Trend Analysis
-Weekday & Weekend Revenue and Booking
-Revenue by State & hotel
-Class Wise Revenue
-Checked out cancel No show
+Total Revenue,
+Occupancy,
+Cancellation Rate,
+Total Booking,
+Utilize capacity,
+Trend Analysis,
+Weekday & Weekend Revenue and Booking,
+Revenue by State & hotel,
+Class Wise Revenue,
+Checked out cancel No show,
 Weekly trend Key trend (Revenue, Total booking, Occupancy)
 # key finding for this project
 1 The hospitality industry is experiencing notable shifts in consumer preferences, with an increasing demand for personalized experiences and sustainable practices.
