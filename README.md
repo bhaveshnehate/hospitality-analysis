@@ -10,7 +10,7 @@ Revenue by State & hotel,
 Class Wise Revenue,
 Checked out cancel No show,
 Weekly trend Key trend (Revenue, Total booking, Occupancy)
-# key finding for this project
+# key finding form this project
 1 The hospitality industry is experiencing notable shifts in consumer preferences, with an increasing demand for personalized experiences and sustainable practices.
 
 2 Competitive analysis reveals key players in the hospitality sector, their market share, and strategies employed to gain a competitive edge.
